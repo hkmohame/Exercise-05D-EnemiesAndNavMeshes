@@ -2,10 +2,11 @@
 
 
 ## Implementation
+Added Music
 
 ## References
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Haifa Mohamed
